@@ -1,0 +1,24 @@
+Origin: devthedev's Repo
+Label: devthedev's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Home of AmpEQ for the iPod touch 7
+Date: Tue, 03 Nov 2026 10:29:30 UTC
+MD5Sum:
+ 3f3268420609ed6cc9b0741a6f2560b6 3636 Packages
+ f7f8cf82f0c04ca54d27bf4890980af2 1902 Packages.gz
+ 90b28e22f40d8633be7c1178ce2140b6 1986 Packages.bz2
+ 1d53144aea36a068824f97443ee9921c 1976 Packages.xz
+SHA1:
+ ba2d17c9d83262159a6b19e2cad8732fe0c3c801 3636 Packages
+ 1a20359a63a55c2a2d76273f4eef70e36a50a5ee 1902 Packages.gz
+ 66a3cb063fd25851062af952c110b7f7d6e55f51 1986 Packages.bz2
+ 0b98f44c5231fce7dfc0681d3027bbf8b8b9954c 1976 Packages.xz
+SHA256:
+ 23433ab57a1cc47add2001d6c27be35000eecb6785c1b00dccca263ec4aabdbd 3636 Packages
+ 256f646e3cdda4c7fae803483409c58349a397fcadc191ca2b923fa8eeda8742 1902 Packages.gz
+ 71950b7a611d58b377e837ca1bcce5cdbb24154cd02ece656a2eccd27c6c5c1c 1986 Packages.bz2
+ 7e13f2a1c6bb24b0f7bb1df8415f2a19256c5899144b8bbfd467371b47dce5ec 1976 Packages.xz
